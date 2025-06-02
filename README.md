@@ -1,6 +1,7 @@
 # STF
 Aquest repositori conté la documentació i els materials relacionats amb un projecte del mòdul de Sistemes de Transmissió i Frenada, del cicle formatiu de Grau Mitjà d’Electromecànica de Vehicles Automòbils.
 
+![Embragatge de competició](https://www.sachsperformance.com/media/image/product/63278/md/es-embragues-de-competicion-sachs-rcs-rcs140-embrague-de-competicion-rcs3-140-h-s2-6-x-xx.jpg)
 
 
 # Unitat de Programació: Sistemes de Transmissió i Frenada
