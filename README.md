@@ -56,9 +56,3 @@ La unitat de programació desenvolupada en aquest treball ha tingut com a object
 2. *Cómo evaluar en FP según la LOMLOE* (consultada a Google Scholar).
 3. Altres referències acadèmiques i normatives rellevants.
 """
-
-# Escriure el fitxer README.md
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md creat correctament.")
