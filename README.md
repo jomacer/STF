@@ -558,10 +558,10 @@ Criteris d’avaluació:
 - i) S’han complert les normes de prevenció de riscos laborals. 
 
 ## 21. Instruments d’avaluació 
-1. Rúbriques  específiques Per avaluar cada Resultat d’Aprenentatge (RA2, RA3 i RA5) i els seus criteris associats. 
-1. Diari  de  taller On l’alumnat registra actuacions, observacions, incidències i reflexions personals. 
-1. Observació  directa  del  docent Amb registre d’evidències durant les sessions pràctiques. 
-1. Prova  pràctica  final Per verificar la millora del sistema de frenada i la justificació tècnica de les accions realitzades. 
+1. Rúbriques  específiques: Per avaluar cada Resultat d’Aprenentatge (RA2, RA3 i RA5) i els seus criteris associats. 
+2. Diari  de  taller: On l’alumnat registra actuacions, observacions, incidències i reflexions personals. 
+3. Observació  directa  del  docent: Amb registre d’evidències durant les sessions pràctiques. 
+4. Prova  pràctica  final: Per verificar la millora del sistema de frenada i la justificació tècnica de les accions realitzades. 
 
 ## 22. Ponderació de qualificació 
 
