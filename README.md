@@ -3,6 +3,7 @@
 ## Autor:
 Joel Marí Cervera 
 
+![](Aspose.Words.d3b96231-c4a7-458e-96a5-43f9e664325e.003.jpeg)
 
 ## 1. Mòdul: 0455 – Sistemes de transmissió i frenada 
 
@@ -202,11 +203,11 @@ En cas que es considere necessari per motius pedagògics o d’integració, es p
 
 ## 6. Ubicació i entorn socioeconòmic i cultural 
 
-El Centre  Integrat  Públic  de  Formació  Professional  (CIPFP)  de  Cheste està  situat al Complex Educa u de Cheste , a la carretera CV-378, a pocs quilòmetres del nucli urbà d’aquesta localitat valenciana. Aquest entorn privilegiat, envoltat de natura i amb àmplies instal·lacions, ofereix un espai ideal per a l’aprenentatge tècnic i pràc c, allunyat del bullici urbà però ben connectat amb la ciutat de València i altres nuclis industrials de la comarca. El centre és hereu de l’an ga Universitat Laboral de Cheste, i manté una forta vocació de  servei  públic  i  de  qualitat  educa va.  Amb  una  llarga  trajectòria  en  la  formació professional, el CIPFP de Cheste s’ha consolidat com un referent autonòmic i estatal, amb una clara projecció europea. 
+El Centre  Integrat  Públic  de  Formació  Professional  (CIPFP)  de  Cheste està  situat al Complex Educatiu de Cheste , a la carretera CV-378, a pocs quilòmetres del nucli urbà d’aquesta localitat valenciana. Aquest entorn privilegiat, envoltat de natura i amb àmplies instal·lacions, ofereix un espai ideal per a l’aprenentatge tècnic i pràc c, allunyat del bullici urbà però ben connectat amb la ciutat de València i altres nuclis industrials de la comarca. El centre és hereu de l’an ga Universitat Laboral de Cheste, i manté una forta vocació de  servei  públic  i  de  qualitat  educativa.  Amb  una  llarga  trajectòria  en  la  formació professional, el CIPFP de Cheste s’ha consolidat com un referent autonòmic i estatal, amb una clara projecció europea. 
 
 En l’àmbit socioeconòmic, Cheste i la comarca de la Foia de Bunyol es caracteritzen per una ac vitat industrial i agrícola destacada, amb una presència creixent del sector de l’automoció i serveis auxiliars. Aquesta realitat fa que el centre man nga una estreta col·laboració  amb  empreses  del  sector,  facilitant  la  inserció  laboral  de  l’alumnat  i l’actualització constant dels con nguts forma us. 
 
-Pel que fa a l’oferta educa va , el CIPFP de Cheste destaca especialment en l’àmbit del Transport i Manteniment de Vehicles, amb cicles com: 
+Pel que fa a l’oferta educativa , el CIPFP de Cheste destaca especialment en l’àmbit del Transport i Manteniment de Vehicles, amb cicles com: 
 
 - Electromecànica de vehicles automòbils (Grau Mitjà) 
 - Automoció (Grau Superior) 
@@ -214,7 +215,7 @@ Pel que fa a l’oferta educa va , el CIPFP de Cheste destaca especialment en l�
 
 Aquestes  tulacions es desenvolupen en tallers moderns i ben equipats, amb tecnologia actualitzada i un enfocament pràc c que prepara l’alumnat per a afrontar els reptes reals del  sector.  A  més,  el  centre  fomenta  la  par cipació  en projectes  d’innovació, compe cions tècniques i mobilitats Erasmus+ , afavorint una formació integral i oberta al món. 
 
-Culturalment, el CIPFP de Cheste es troba immers en una zona amb una rica tradició fes va i cultural, com les Falles o la música de banda, i amb una comunitat educa va diversa i compromesa amb la formació de qualitat. 
+Culturalment, el CIPFP de Cheste es troba immers en una zona amb una rica tradició fes va i cultural, com les Falles o la música de banda, i amb una comunitat educativa diversa i compromesa amb la formació de qualitat. 
 
 ## 7. Oferta d’ensenyaments 
 - Educació Secundària i Batxillerat 
