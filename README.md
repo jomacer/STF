@@ -468,7 +468,7 @@ Finalment, cada equip prepara una presentació on explica tot el procés: des de
 
 Es fa una exposició davant de la resta de companys i, si és possible, davant d’altres professors o famílies. Es valora tant el contingut tècnic com la capacitat de treballar en equip, comunicar i reflexionar sobre l’experiència. 
 
-## 17. Calendari de la temporalització
+## 17. Calendari escolar
 
 ![](Aspose.Words.d3b96231-c4a7-458e-96a5-43f9e664325e.001.jpeg)
 
