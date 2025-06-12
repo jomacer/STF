@@ -1,10 +1,10 @@
-Millorant el sistema de frenada mitjançant un projecte 
+#Millorant el sistema de frenada mitjançant un projecte 
 
-Autor:
+##Autor:
 Joel Marí Cervera 
 
 
-1. Mòdul: 0455 – Sistemes de transmissió i frenada 
+##1. Mòdul: 0455 – Sistemes de transmissió i frenada 
 
 Cicle: Tècnic en Electromecànica de vehicles 
 
@@ -12,48 +12,24 @@ Codi: 0455
 
 Duració: 154h anuals, 7h setmanals, repartides en 2 sessions de 110 minuts i una de 165 minuts. 
 
-2. Objectius generals específics del mòdul 
+##2. Objectius generals específics del mòdul 
 
 Els objectius generals que es treballen en aquest mòdul són: 
 
 - a) Interpretar la informació i, en general, tot el llenguatge simbòlic associat a les operacions  de  manteniment  i  reparació  en  l’àrea  d’electromecànica  per seleccionar el procés de reparació. 
-
-￿ 
-
 - b) Seleccionar les màquines, útils, eines i mitjans de seguretat necessaris per efectuar els processos de manteniment en l’àrea d’electromecànica. 
-
-￿ 
-
 - c) Manipular  instruments  i  equips  de  mesura  i  control,  explicant-ne  el funcionament i connectant-los adequadament per localitzar avaries. 
-
-￿ 
-
 - e) Analitzar la informació subministrada pels equips de diagnosi, comparant-la amb les especificacions del fabricant per determinar el procés de manteniment i reparació. 
-
-￿ 
-
 - h) Relacionar els elements que constitueixen els trens de rodatge, frens, direcció i suspensió amb la funció que compleixen dins del conjunt, per efectuar-ne el manteniment i la reparació. 
-
-￿ 
-
 - i) Aplicar  les  tècniques  i  mètodes  d’operació  pertinents  en  el  desmuntatge, muntatge i substitució d’elements mecànics, pneumàtics, hidràulics i electrònic- electrònics dels sistemes del vehicle per procedir al seu manteniment i reparació. 
-
-￿ 
-
 - j) Analitzar el funcionament de les centraletes electròniques i la informació que subministren, efectuant la recàrrega, extracció de dades i reinici de les mateixes per obtenir la informació necessària en el manteniment. 
-
-￿ 
-
 - k) Realitzar mesures, comparant els resultats amb els valors dels paràmetres de referència per verificar els resultats de les intervencions. 
-
-￿ 
-
 - l) Analitzar  i  descriure  els  procediments  de  prevenció  de  riscos  laborals  i mediambientals, assenyalant les accions a realitzar en els casos definits per actuar d’acord amb les normes estandarditzades. 
+- p) Reconèixer i valorar contingències, determinant les causes que les provoquen i descrivint les accions correctores per resoldre les incidències associades a la seva activitat professional.
 
-￿ 
+   
+##3. Continguts 
 
-- p) Reconèixer i valorar contingències, determinant les causes que les provoquen i descrivint les accions correctores per resoldre les incidències associades a la seva activitat professional. 
-3. Continguts 
 1. Caracterització dels sistemes de transmissió 
 - Física de la transmissió del moviment 
 - Interpretació de documentació tècnica  
@@ -133,8 +109,9 @@ Els objectius generals que es treballen en aquest mòdul són:
 8. Evolucions tecnològiques i expectatives de futur 
 - Tendències en sistemes de transmissió i frenada 
 - Electrificació i automatització  
-- Integració de sistemes intel·ligents i connectats 
-4. Relació entre RA i criteris d’avaluació 
+- Integració de sistemes intel·ligents i connectats
+  
+##4. Relació entre RA i criteris d’avaluació 
 
 RA 1. Caracteritza el funcionament del sistema de transmissió 
 
@@ -202,8 +179,9 @@ Criteris d’avaluació:
 - f) S’han realitzat els controls i ajustos dels paràmetres estàtics i dinàmics segons especificacions tècniques. 
 - g) S’han reparat els sistemes antibloqueig de rodes i de control de tracció. 
 - h) S’ha verificat que es restitueix la funcionalitat requerida en el sistema. 
-- i) S’han complert les normes de prevenció de riscos laborals. 
-5. Contextualització 
+- i) S’han complert les normes de prevenció de riscos laborals.
+  
+##5. Contextualització 
 
 La proposta es desenvolupa al Centre Integrat Públic de Formació Professional (CIPFP) de Xest, situat en una zona semiurbana de la província de València. Aquest centre és una referència en la formació professional de l’àmbit de l’automoció, i compta amb unes instal·lacions àmplies i ben equipades que permeten desenvolupar una formació tècnica de qualitat. 
 
@@ -222,7 +200,7 @@ Per garantir una participació activa i equitativa, l’alumnat es distribuirà 
 
 En cas que es considere necessari per motius pedagògics o d’integració, es podria formar un grup de 4 alumnes, especialment si inclou l’alumne amb TDAH o dislèxia, per tal de garantir un suport més gran i una millor dinàmica de treball. 
 
-6. Ubicació i entorn socioeconòmic i cultural 
+##6. Ubicació i entorn socioeconòmic i cultural 
 
 El Centre  Integrat  Públic  de  Formació  Professional  (CIPFP)  de  Cheste està  situat al Complex Educa u de Cheste , a la carretera CV-378, a pocs quilòmetres del nucli urbà d’aquesta localitat valenciana. Aquest entorn privilegiat, envoltat de natura i amb àmplies instal·lacions, ofereix un espai ideal per a l’aprenentatge tècnic i pràc c, allunyat del bullici urbà però ben connectat amb la ciutat de València i altres nuclis industrials de la comarca. El centre és hereu de l’an ga Universitat Laboral de Cheste, i manté una forta vocació de  servei  públic  i  de  qualitat  educa va.  Amb  una  llarga  trajectòria  en  la  formació professional, el CIPFP de Cheste s’ha consolidat com un referent autonòmic i estatal, amb una clara projecció europea. 
 
@@ -238,7 +216,7 @@ Aquestes  tulacions es desenvolupen en tallers moderns i ben equipats, amb tecno
 
 Culturalment, el CIPFP de Cheste es troba immers en una zona amb una rica tradició fes va i cultural, com les Falles o la música de banda, i amb una comunitat educa va diversa i compromesa amb la formació de qualitat. 
 
-7. Oferta d’ensenyaments 
+##7. Oferta d’ensenyaments 
 - Educació Secundària i Batxillerat 
 
 A través de l’IES núm. 1 del Complex Educatiu de Cheste, s’imparteixen: 
@@ -315,7 +293,8 @@ Grau E – Cursos d’Especialització
 - Aules simulades de consulta mèdica i clínica dental. 
 - Material sanitari real per a pràctiques de cures auxiliars, higiene bucodental i documentació sanitària. 
 - Simuladors i maniquines per a pràctiques de primers auxilis i tècniques clíniques. 
-9. Competències professionals, personals i socials del mòdul 
+
+##9. Competències professionals, personals i socials del mòdul 
 
 Aquest mòdul desenvolupa competències clau per a la diagnosi, reparació i manteniment de sistemes del vehicle, amb criteris de qualitat, seguretat i responsabilitat ambiental. 
 
@@ -324,7 +303,8 @@ Aquest mòdul desenvolupa competències clau per a la diagnosi, reparació i man
 - f) Reparar els sistemes de transmissió de forces i de frenada aplicant les tècniques de reparació prescrites pels fabricants. 
 - g) Verificar  els  resultats  de  les  seues  intervencions  comparant-los  amb  els estàndards de qualitat establerts. 
 - h) Aplicar procediments de prevenció de riscos laborals i de protecció ambiental, d’acord amb el que estableix la normativa. 
-10. Unitats de competencia acreditades 
+
+##10. Unitats de competencia acreditades 
 
     Quan  un  alumne  supera  un  mòdul  professional,  està  adquirint  una  o diverses unitats  de  competència reconegudes  oficialment.  Aquesta correspondència permet que: 
 
@@ -334,7 +314,7 @@ Aquest mòdul desenvolupa competències clau per a la diagnosi, reparació i man
 
 UC0131\_2: Mantener los sistemas de transmisión y frenos. 
 
-11. Justificació pedagógica 
+##11. Justificació pedagógica 
 
 Aquest projecte s’emmarca dins d’una metodologia d’Aprenentatge Basat en Projectes (ABPr),  que  té  com  a  objectiu  principal  implicar  l’alumnat  en  situacions  reals  i significatives, on puguen aplicar els coneixements tècnics i teòrics adquirits en el cicle formatiu. En aquest cas, el repte plantejat és la millora del sistema de frenada d’un kart, una tasca que integra continguts de mecànica, física, hidràulica i diagnosi de sistemes. Les 6 sessions del projecte han estat dissenyades per fomentar l’aprenentatge actiu, col·laboratiu  i  competencial,  tot  promovent  la  reflexió,  la  presa  de  decisions  i  la resolució de problemes. A més, es treballen transversalment aspectes com la seguretat, la documentació tècnica, la comunicació i la responsabilitat professional. 
 
@@ -342,7 +322,7 @@ Aquest  projecte  permet  desenvolupar  de  manera  integrada  diversos Resultat
 
 A través de l’observació directa, el desmuntatge, la presa de mesures, els càlculs, les proves i la presentació final, es garanteix un aprenentatge global, pràctic i significatiu, alineat amb els objectius generals del cicle i amb les competències professionals que es demanden en el sector de l’automoció. 
 
-12. Continguts bàsics 
+##12. Continguts bàsics 
 
 Continguts bàsics 
 
@@ -381,7 +361,8 @@ Continguts bàsics
 - Verificació i ajust dels sistemes 
 - Processos d’actualització de dades en les unitats electròniques 
 - Normes de seguretat laboral i protecció ambiental 
-13. Introducció 
+
+##13. Introducció 
 
 En aquest projecte d’Aprenentatge Basat en Projectes (ABPr), l’alumnat assumirà el repte de millorar el sistema de frenada d’un kart real. A través de sis sessions que combinen teoria,  pràctica  i  treball  col·laboratiu,  es  desenvoluparan  competències  tècniques, científiques i comunicatives relacionades amb la mecànica del vehicle i la física aplicada. L’objectiu principal és entendre com funciona un sistema de frens, identificar-ne els punts febles i aplicar millores reals basades en càlculs, proves i verificacions. L’alumnat es convertirà en protagonista del seu aprenentatge, treballant com si foren tècnics d’un equip de competició. 
 
@@ -395,7 +376,7 @@ Durant el projecte, es duran a terme activitats com:
 
 Aquest projecte no sols permet aplicar coneixements tècnics, sinó que també fomenta el treball en equip, la resolució de problemes, la presa de decisions i la comunicació efectiva. A més, està alineat amb els Resultats d’Aprenentatge (RA) del currículum, garantint una experiència educativa completa i significativa. 
 
-14. Objectius 
+##14. Objectius 
 
 Els objectius generals del cicle formatiu 
 
@@ -415,7 +396,8 @@ Els objectius generals del cicle formatiu
 10) Identificar i valorar les oportunitats d’aprenentatge i ocupació, analitzant les ofertes i demandes del mercat laboral per a gestionar la seua carrera professional. ñ) Reconéixer els seus drets i deures com a agent actiu en la societat, analitzant el marc legal que regula les condicions socials i laborals per a participar com a ciutadà democràtic. 
 10) Reconéixer les oportunitats de negoci, identificant i analitzant demandes del mercat per a crear i gestionar una xicoteta empresa. 
 10) Reconéixer i valorar les contingències, determinant les causes que les provoquen i descrivint les accions correctores per a resoldre les incidències associades a la seua activitat professional. 
-15. Metodologia 
+
+##15. Metodologia 
 
 Per al desenvolupament d’aquest projecte s’aplica una metodologia activa centrada en l’alumnat, basada en l’Aprenentatge Basat en Projectes (ABPr) i el treball cooperatiu. Aquesta  estratègia  permet  que  l’alumnat  siga  el  protagonista  del  seu  propi  procés d’aprenentatge, desenvolupant tant competències tècniques com transversals a través d’una situació real i significativa: la millora del sistema de frenada d’un kart. 
 
@@ -434,7 +416,7 @@ Els rols poden ser rotatius o fixos segons la durada del projecte, i es poden aj
 
 Aquesta metodologia no sols assegura l’adquisició de coneixements tècnics, sinó que també  fomenta  valors  com  el treball  en  equip,  la resolució  de  problemes, la planificació  de  tasques,  la comunicació  efectiva i  el pensament  crític,  tot  en  un entorn pràctic, realista i altament motivador. 
 
-16. Temporalització 
+##16. Temporalització 
 
 Duració  total: 4  sessions  de  110  minuts  i  2  de  165  minuts  (unes  14  hores  totals) 
 
@@ -483,19 +465,19 @@ Finalment, cada equip prepara una presentació on explica tot el procés: des de
 
 Es fa una exposició davant de la resta de companys i, si és possible, davant d’altres professors o famílies. Es valora tant el contingut tècnic com la capacitat de treballar en equip, comunicar i reflexionar sobre l’experiència. 
 
-17. Calendari 
+##17. Calendari 
 
 ![](Aspose.Words.d3b96231-c4a7-458e-96a5-43f9e664325e.001.jpeg)
 
 ![](Aspose.Words.d3b96231-c4a7-458e-96a5-43f9e664325e.002.jpeg)
 
-18. Diagrama de Gantt 
+##18. Diagrama de Gantt 
 
 ` `Aquest diagrama de Gantt mostra la distribució de les 6 sessions del projecte ABPr sobre la millora del sistema de frenada d’un kart. Les sessions es realitzaran els dies 14, 16, 17, 21, 23 i 24 de gener, amb una sessió per dia. 
 
 ![](Aspose.Words.d3b96231-c4a7-458e-96a5-43f9e664325e.003.jpeg)
 
-19. Avaluació 
+##19. Avaluació 
 
 L’avaluació  d’aquest  projecte  serà formativa,  contínua  i  basada  en  evidències, recollides  al  llarg  de  les  diferents  sessions.  Es  fonamentarà  en  els Resultats d’Aprenentatge  (RA2,  RA3  i  RA5) i  els criteris  d’avaluació  associats,  garantint  una valoració objectiva, coherent i centrada en el progrés real de l’alumnat. 
 
@@ -514,11 +496,10 @@ Tècniques d’avaluació
 - Coavaluació, per valorar la contribució dels companys i el funcionament del grup. 
 - Registre d’incidències i millores, com a eina per identificar dificultats, ajustar estratègies i reconéixer l’evolució del projecte. 
 
-￿ 
 
 Aquest enfocament permet una avaluació global i personalitzada, que reconeix tant els assoliments tècnics com les habilitats transversals desenvolupades al llarg del projecte. 
 
-20. Taula dels RA amb els criteris d’avaluació 
+##20. Taula dels RA amb els criteris d’avaluació 
 
 En aquesta graella podrem veure els criteris d’avaluació de cada RA associat a cada sessió. 
 
@@ -572,12 +553,14 @@ Criteris d’avaluació:
 - f) S’han realitzat els controls i ajustos dels paràmetres estàtics i dinàmics segons especificacions tècniques. 
 - h) S’ha verificat que es restitueix la funcionalitat requerida en el sistema. 
 - i) S’han complert les normes de prevenció de riscos laborals. 
-21. Instruments d’avaluació 
+
+##21. Instruments d’avaluació 
 1. Rúbriques  específiques Per avaluar cada Resultat d’Aprenentatge (RA2, RA3 i RA5) i els seus criteris associats. 
 1. Diari  de  taller On l’alumnat registra actuacions, observacions, incidències i reflexions personals. 
 1. Observació  directa  del  docent Amb registre d’evidències durant les sessions pràctiques. 
 1. Prova  pràctica  final Per verificar la millora del sistema de frenada i la justificació tècnica de les accions realitzades. 
-22. Ponderació de qualificació 
+
+##22. Ponderació de qualificació 
 
 %RA 
 
@@ -594,7 +577,7 @@ Criteris d’avaluació:
 |6 |33\.3% |50% |33\.3% ||
 ||100% |100% |100% ||
 
-23. Recursos necessaris 
+##23. Recursos necessaris 
 - Eines i equipament tècnic 
   - Joc de ferramentes manuals (claus fixes, allen, torx, tornavisos, etc.) 
   - Peu de rei i micròmetre per a presa de mesures precises 
@@ -627,7 +610,8 @@ Criteris d’avaluació:
 - Ulleres de protecció 
 - Botes de seguretat 
 - Roba de taller 
-24. Recursos Adicionals 
+
+##24. Recursos Adicionals 
 1. Ací  tenim  uns  videos  de  recursos  adicionals  que  podem  utilizar 
 
    Hallar  la  distancia  de  frenada  –  Cinemática Explicació  clara  i  visual  de  com  calcular  la  distància  de  frenada  d’un  vehicle utilitzant fórmules de cinemàtica. Ideal per introduir conceptes com acceleració negativa  i  energia  cinètica. [🔗 Veure vídeo (Física con Juan) ](https://www.youtube.com/watch?v=Oz3RorUAgdU)![ref1]
