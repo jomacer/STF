@@ -308,8 +308,8 @@ Aquest mòdul desenvolupa competències clau per a la diagnosi, reparació i man
 
 ## 10. Unitats de competencia acreditades 
 
-    Quan  un  alumne  supera  un  mòdul  professional,  està  adquirint  una  o diverses unitats  de  competència reconegudes  oficialment.  Aquesta correspondència permet que: 
-
+   Quan  un  alumne  supera  un  mòdul  professional,  està  adquirint  una  o diverses unitats  de  competència reconegudes  oficialment.  Aquesta correspondència permet que:
+   
 - Les  persones  puguen  acreditar  oficialment  les  seues  competències professionals, encara que no hagen completat tot el cicle formatiu. 
 - Es  facilite  la mobilitat  laboral  i  formativa,  ja  que  aquestes  unitats  són reconegudes a nivell estatal. 
 - Es  puga  accedir  a  processos  d’acreditació  de  l’experiència  laboral,  validant competències adquirides fora de l’àmbit educatiu formal. 
