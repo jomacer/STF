@@ -3,7 +3,7 @@
 ## Autor:
 Joel Marí Cervera 
 
-![](Aspose.Words.d3b96231-c4a7-458e-96a5-43f9e664325e.003.jpeg)
+![](97.jpeg)
 
 ## 1. Mòdul: 0455 – Sistemes de transmissió i frenada 
 
