@@ -314,7 +314,7 @@ Aquest mòdul desenvolupa competències clau per a la diagnosi, reparació i man
 - Es  facilite  la mobilitat  laboral  i  formativa,  ja  que  aquestes  unitats  són reconegudes a nivell estatal. 
 - Es  puga  accedir  a  processos  d’acreditació  de  l’experiència  laboral,  validant competències adquirides fora de l’àmbit educatiu formal. 
 
-UC0131\_2: Mantener los sistemas de transmisión y frenos. 
+UC0131\_2: Mantindre els sistemes de transmissió i frens. 
 
 ## 11. Justificació pedagógica 
 
