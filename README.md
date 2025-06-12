@@ -380,24 +380,25 @@ Aquest projecte no sols permet aplicar coneixements tècnics, sinó que també f
 
 ## 14. Objectius 
 
-Els objectius generals del cicle formatiu 
+Els objectius generals del cicle formatiu són:
 
-1) Interpretar  la  informació  i,  en  general,  tot  el  llenguatge  simbòlic  associat  a  les operacions de manteniment i reparació en l’àrea d’electromecànica per seleccionar el procés de reparació. 
-1) Seleccionar les màquines, útils, ferramentes i mitjans de seguretat necessaris per a efectuar els processos de manteniment en l’àrea d’electromecànica. 
-1) Manipular instruments i equips de mesura i control, explicant-ne el funcionament i connectant-los adequadament per a localitzar avaries. 
-1) Realitzar els croquis i els càlculs necessaris per a efectuar operacions de manteniment. 
-1) Analitzar la informació subministrada pels equips de diagnosi, comparant-la amb les especificacions  donades  pel  fabricant  per  a  determinar  el  procés  de  manteniment  i reparació. 
-1) Aplicar les tècniques d’operació i utilitzar els mètodes adequats per a reparar els motors tèrmics i els seus sistemes auxiliars. 
-1) Aplicar les lleis més rellevants de l’electricitat en el càlcul i definició de circuits elèctric- electrònics de vehicles per a procedir a la seua reparació i muntatge. 
-1) Relacionar  els  elements  que  constitueixen  els  trens  de  rodatge,  frens,  direcció  i suspensió  amb  la  funció  que  compleixen  dins  del  conjunt,  per  a  efectuar-ne  el manteniment i la reparació. 
-1) Aplicar les tècniques i mètodes d’operació pertinents en el desmuntatge, muntatge i substitució  d’elements  mecànics,  pneumàtics,  hidràulics  i  elèctric-electrònics  dels sistemes del vehicle per a procedir al seu manteniment i reparació. 
-10) Analitzar  el  funcionament  de  les  centraletes  electròniques  i  la  informació  que subministren, efectuant-ne la recàrrega, extracció de dades i reinici per a obtindre la informació necessària en el manteniment. 
-10) Realitzar  mesures,  comparant  els  resultats  amb  els  valors  dels  paràmetres  de referència per a verificar els resultats de les seues intervencions. 
-10) Analitzar i descriure els procediments de prevenció de riscos laborals i mediambientals, assenyalant les accions a realitzar en els casos definits per a actuar d’acord amb les normes estandarditzades. 
-10) Valorar les activitats de treball en un procés productiu, identificant-ne l’aportació al procés global per a aconseguir els objectius de producció. 
-10) Identificar i valorar les oportunitats d’aprenentatge i ocupació, analitzant les ofertes i demandes del mercat laboral per a gestionar la seua carrera professional. ñ) Reconéixer els seus drets i deures com a agent actiu en la societat, analitzant el marc legal que regula les condicions socials i laborals per a participar com a ciutadà democràtic. 
-10) Reconéixer les oportunitats de negoci, identificant i analitzant demandes del mercat per a crear i gestionar una xicoteta empresa. 
-10) Reconéixer i valorar les contingències, determinant les causes que les provoquen i descrivint les accions correctores per a resoldre les incidències associades a la seua activitat professional. 
+a) Interpretar  la  informació  i,  en  general,  tot  el  llenguatge  simbòlic  associat  a  les operacions de manteniment i reparació en l’àrea d’electromecànica per seleccionar el procés de reparació. 
+b) Seleccionar les màquines, útils, ferramentes i mitjans de seguretat necessaris per a efectuar els processos de manteniment en l’àrea d’electromecànica. 
+c) Manipular instruments i equips de mesura i control, explicant-ne el funcionament i connectant-los adequadament per a localitzar avaries. 
+d) Realitzar els croquis i els càlculs necessaris per a efectuar operacions de manteniment. 
+e) Analitzar la informació subministrada pels equips de diagnosi, comparant-la amb les especificacions  donades  pel  fabricant  per  a  determinar  el  procés  de  manteniment  i reparació. 
+f) Aplicar les tècniques d’operació i utilitzar els mètodes adequats per a reparar els motors tèrmics i els seus sistemes auxiliars. 
+g) Aplicar les lleis més rellevants de l’electricitat en el càlcul i definició de circuits elèctric- electrònics de vehicles per a procedir a la seua reparació i muntatge. 
+h) Relacionar  els  elements  que  constitueixen  els  trens  de  rodatge,  frens,  direcció  i suspensió  amb  la  funció  que  compleixen  dins  del  conjunt,  per  a  efectuar-ne  el manteniment i la reparació. 
+i) Aplicar les tècniques i mètodes d’operació pertinents en el desmuntatge, muntatge i substitució  d’elements  mecànics,  pneumàtics,  hidràulics  i  elèctric-electrònics  dels sistemes del vehicle per a procedir al seu manteniment i reparació. 
+j) Analitzar  el  funcionament  de  les  centraletes  electròniques  i  la  informació  que subministren, efectuant-ne la recàrrega, extracció de dades i reinici per a obtindre la informació necessària en el manteniment. 
+k) Realitzar  mesures,  comparant  els  resultats  amb  els  valors  dels  paràmetres  de referència per a verificar els resultats de les seues intervencions. 
+l) Analitzar i descriure els procediments de prevenció de riscos laborals i mediambientals, assenyalant les accions a realitzar en els casos definits per a actuar d’acord amb les normes estandarditzades. 
+m) Valorar les activitats de treball en un procés productiu, identificant-ne l’aportació al procés global per a aconseguir els objectius de producció. 
+n) Identificar i valorar les oportunitats d’aprenentatge i ocupació, analitzant les ofertes i demandes del mercat laboral per a gestionar la seua carrera professional.
+o) Reconéixer els seus drets i deures com a agent actiu en la societat, analitzant el marc legal que regula les condicions socials i laborals per a participar com a ciutadà democràtic. 
+p) Reconéixer les oportunitats de negoci, identificant i analitzant demandes del mercat per a crear i gestionar una xicoteta empresa. 
+q) Reconéixer i valorar les contingències, determinant les causes que les provoquen i descrivint les accions correctores per a resoldre les incidències associades a la seua activitat professional. 
 
 ## 15. Metodologia 
 
